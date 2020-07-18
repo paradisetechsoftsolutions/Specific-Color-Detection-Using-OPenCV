@@ -23,7 +23,7 @@ HSV stands for Hue Saturation Value. Commonly used color space conversion method
 # Running code and expected output of the input image
 
 The image that we are going to use in this repository is shown below as well as attached in repository also.
-
+![image](https://user-images.githubusercontent.com/39157936/87852154-2ded9180-c91d-11ea-8d58-0c0b67dcc50b.jpg)
 
 # Masked image to detect red color only:
 ![object found_screenshot_15 07 2020](https://user-images.githubusercontent.com/39157936/87851622-16f87080-c918-11ea-811b-709a63478db0.png)
