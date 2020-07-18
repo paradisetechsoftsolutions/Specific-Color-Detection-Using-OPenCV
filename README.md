@@ -44,12 +44,21 @@ Now it is time to create virtual env using the below command
 
 ```
 virtualenv --python python3.5 *name_of_env*  
+```    
+Activate the virtualenv using the below command  
+
+```
+source name_of_env/bin/activate  
 ```  
 
+Now install the requirement using the below command  
 
+```
+pip3 install -r requirements.txt  
+```    
 
+Done. Now it is the time to run the main code  
 
-
-
-
-
+```
+python3 specific_color_using_opencv.py --image image.jpg  
+```
