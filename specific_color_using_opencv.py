@@ -2,7 +2,6 @@
 import cv2
 import argparse
 import numpy as np
-import cvlib as cv
 
 class ColorDetection:
 
