@@ -26,9 +26,30 @@ The image that we are going to use in this repository is shown below as well as 
 
 ![image](https://user-images.githubusercontent.com/39157936/87852154-2ded9180-c91d-11ea-8d58-0c0b67dcc50b.jpg)
 
-# Masked image to detect red color only:
+# Masked image showing only detect red color [right side] only:
 ![object found_screenshot_15 07 2020](https://user-images.githubusercontent.com/39157936/87851622-16f87080-c918-11ea-811b-709a63478db0.png)
 
 # Bounding box over detected patch of image
 
-![Bounding Box over template image_screenshot_18 07 2020](https://user-images.githubusercontent.com/39157936/87851634-31cae500-c918-11ea-9925-26c31373c687.png)
+![Bounding Box over template image_screenshot_18 07 2020](https://user-images.githubusercontent.com/39157936/87851634-31cae500-c918-11ea-9925-26c31373c687.png)  
+
+# Running the code  
+
+To run the code , I would recommend to create virtual environment and then install requirements file.To create the virtual environment please do follow below command  
+
+```
+sudo apt-get install virtualenv  
+```  
+Now it is time to create virtual env using the below command   
+
+```
+virtualenv --python python3.5 *name_of_env*  
+```  
+
+
+
+
+
+
+
+
